@@ -8,3 +8,4 @@ Commit #4 for Base Guild
 Commit #5 for Base Guild
 Commit #6 for Base Guild
 Commit #7 for Base Guild
+Commit #8 for Base Guild
