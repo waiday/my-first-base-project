@@ -13,5 +13,5 @@ Commit #9 for Base Guild
 Commit #10 for Base Guild
 Commit #11 for Base Guild
 Commit #12 for Base Guild
-Commit #13 for   Base Guild
+Commit #13 for Base Guild
 Commit #14 for Base Guild
